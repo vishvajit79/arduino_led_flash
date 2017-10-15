@@ -1,4 +1,4 @@
-# arduino_led_flash
+# Arduino LED Flash
 
 Components Required:
 Arduino Mega 1 red LED, 1 yellow LED
